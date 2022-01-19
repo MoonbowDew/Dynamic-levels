@@ -1,1 +1,1 @@
-The app is based on "Fallout of Dew" project and mainly demonstrates procedural generation. Still WIP. Can be launched using VS 2019. Exe file (Output Debug.exe) is located at FoERemains\OpenGLTest folder
+The game is based on "Fallout of Dew" project and mainly demonstrates procedural generation. Still WIP. Can be launched using VS 2019. Exe file (Output Debug.exe) is located at FoERemains\OpenGLTest folder
