@@ -1,0 +1,29 @@
+﻿  Scene.cpp
+C:\Users\Dew\source\repos\FoERemains\OpenGLTest\custom\Scene.cpp(195,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dew\source\repos\FoERemains\OpenGLTest\custom\Scene.cpp(195,52): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dew\source\repos\FoERemains\OpenGLTest\custom\Scene.cpp(197,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dew\source\repos\FoERemains\OpenGLTest\custom\Scene.cpp(197,56): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dew\source\repos\FoERemains\OpenGLTest\custom\Scene.cpp(203,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dew\source\repos\FoERemains\OpenGLTest\custom\Scene.cpp(203,52): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dew\source\repos\FoERemains\OpenGLTest\custom\Scene.cpp(205,24): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dew\source\repos\FoERemains\OpenGLTest\custom\Scene.cpp(205,58): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Dew\source\repos\FoERemains\OpenGLTest\custom\Scene.cpp(277,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dew\source\repos\FoERemains\OpenGLTest\custom\Scene.cpp(281,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Dew\source\repos\FoERemains\OpenGLTest\custom\Scene.cpp(333,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dew\source\repos\FoERemains\OpenGLTest\custom\Scene.cpp(351,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dew\source\repos\FoERemains\OpenGLTest\custom\Scene.cpp(352,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Dew\source\repos\FoERemains\OpenGLTest\custom\Scene.cpp(361,78): warning C4244: 'argument': conversion from 'float' to 'GLenum', possible loss of data
+D:\Soft\Visual Studio\2019\VC\Tools\MSVC\14.26.28801\include\memory(2068,56): warning C4244: 'argument': conversion from '_Ty' to 'unsigned int', possible loss of data
+          with
+          [
+              _Ty=unsigned __int64
+          ]
+C:\Users\Dew\source\repos\FoERemains\OpenGLTest\custom\Scene.cpp(409): message : see reference to function template instantiation 'std::unique_ptr<VertexBuffer,std::default_delete<VertexBuffer>> std::make_unique<VertexBuffer,nullptr,unsigned __int64,0>(nullptr &&,unsigned __int64 &&)' being compiled
+D:\Soft\Visual Studio\2019\VC\Tools\MSVC\14.26.28801\include\memory(2067,59): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Dew\source\repos\FoERemains\OpenGLTest\custom\Scene.cpp(411): message : see reference to function template instantiation 'std::unique_ptr<IndexBuffer,std::default_delete<IndexBuffer>> std::make_unique<IndexBuffer,unsigned int(&)[6000],const size_t&,0>(unsigned int (&)[6000],const size_t &)' being compiled
+  Generating code
+  1 of 1005 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    9 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenGLTest.vcxproj -> C:\Users\Dew\source\repos\FoERemains\x64\Release\OpenGLTest.exe
